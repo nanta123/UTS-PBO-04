@@ -1,14 +1,13 @@
-# UTS_PBO_31
-JUDUL : KASIR_RESTO 2<br>
+# UTS_PBO_03
+JUDUL : KASIR_RESTORAN_SEDERHANA<br>
 
-![Button Save](https://docs.google.com/uc?id=0Bz7hPTBvtobXWEw1MFRXVlRXQlE)<br>
-![Button Clear](https://docs.google.com/uc?id=0Bz7hPTBvtobXaGk1LUdkYTdkRnM)<br>
-![Button Delete](https://docs.google.com/uc?id=0Bz7hPTBvtobXQkYzdDN6cWN5T0k)<br>
-![Button Print](https://docs.google.com/uc?id=0Bz7hPTBvtobXMWR2V2RRa245WmM)<br>
+![Login](https://drive.google.com/open?id=0B7U0GzVlo99VUFZMR3BxVTVwRDQ)<br>
+![Tampilan Awal](https://drive.google.com/open?id=0B7U0GzVlo99VcUN3LTlDaE50VnM)<br>
+![Tampilan](https://drive.google.com/open?id=0B7U0GzVlo99VUFZMR3BxVTVwRDQ)<br>
+![Button Print](https://drive.google.com/open?id=0B7U0GzVlo99VZ0habEZHLWt0TjA)<br>
 
 <br>
-Nama : Ryan Bekti Mahendra<br>
+Nama : Ananta Zulqurtubi <br>
 Kelas : XI-RPL6<br>
-No : 36<br>
-NIS : 48211539<br>
+No : 04<br>
 Sekolah : SMK TELKOM MALANG<br>
